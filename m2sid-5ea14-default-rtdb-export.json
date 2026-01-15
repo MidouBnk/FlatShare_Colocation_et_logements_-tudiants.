@@ -1,0 +1,1159 @@
+{
+  "logements": [
+    {
+      "description": "Studio meublé idéal pour étudiant, à 5 min de l'USTO. Calme et lumineux.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Climatisation",
+        "Cuisine équipée"
+      ],
+      "id": 1,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 12000,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Plateau",
+      "surface": 25,
+      "titre": "Studio étudiant proche Université d'Oran",
+      "type": "studio",
+      "ville": "Oran"
+    },
+    {
+      "description": "Colocation sympa avec 2 autres étudiants. Proche transports.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Machine à laver",
+        "Cuisine équipée"
+      ],
+      "id": 2,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 8000,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Hydra",
+      "surface": 15,
+      "titre": "Chambre en colocation centre-ville",
+      "type": "colocation",
+      "ville": "Alger"
+    },
+    {
+      "description": "F2 entièrement meublé à 5min de la faculté. Très bon état.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Chauffage",
+        "Climatisation"
+      ],
+      "id": 3,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 15000,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Cité Universitaire",
+      "surface": 45,
+      "titre": "Appartement F2 étudiant",
+      "type": "appartement",
+      "ville": "Constantine"
+    },
+    {
+      "description": "Studio fonctionnel parfait pour étudiant. Proche campus.",
+      "disponible": false,
+      "equipements": [
+        "Meublé",
+        "Eau chaude",
+        "WiFi"
+      ],
+      "id": 4,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 11000,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Université Ferhat Abbas",
+      "surface": 20,
+      "titre": "Studio meublé centre Sétif",
+      "type": "studio",
+      "ville": "Sétif"
+    },
+    {
+      "description": "Chambre dans maison étudiante. Ambiance conviviale.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Jardin",
+        "Cuisine équipée"
+      ],
+      "id": 5,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 7000,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Birouana",
+      "surface": 18,
+      "titre": "Colocation étudiante Tlemcen",
+      "type": "colocation",
+      "ville": "Tlemcen"
+    },
+    {
+      "description": "Studio neuf avec belle vue. Proche Université Badji Mokhtar.",
+      "disponible": true,
+      "equipements": [
+        "Climatisation",
+        "Meublé",
+        "WiFi",
+        "Cuisine équipée"
+      ],
+      "id": 6,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 13000,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "El Bouni",
+      "surface": 22,
+      "titre": "Studio moderne Annaba",
+      "type": "studio",
+      "ville": "Annaba"
+    },
+    {
+      "description": "F1 fonctionnel pour étudiant. Calme et sécurisé.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage",
+        "Eau chaude"
+      ],
+      "id": 7,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 14000,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Centre-ville",
+      "surface": 30,
+      "titre": "Appartement F1 Blida",
+      "type": "appartement",
+      "ville": "Blida"
+    },
+    {
+      "description": "Colocation réservée aux étudiantes. Proche campus.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Machine à laver",
+        "Sécurisé"
+      ],
+      "id": 8,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 8500,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Ben Aknoun",
+      "surface": 16,
+      "titre": "Colocation fille seulement",
+      "type": "colocation",
+      "ville": "Alger"
+    },
+    {
+      "description": "Studio avec petit jardin. Idéal pour étudiant en médecine.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Jardin",
+        "Chauffage",
+        "Eau chaude"
+      ],
+      "id": 9,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 10000,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Tazoult",
+      "surface": 24,
+      "titre": "Studio jardin Batna",
+      "type": "studio",
+      "ville": "Batna"
+    },
+    {
+      "description": "Spacieux F2 avec balcon. Vue sur la mer.",
+      "disponible": false,
+      "equipements": [
+        "Meublé",
+        "Climatisation",
+        "Balcon",
+        "WiFi"
+      ],
+      "id": 10,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 16000,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Targa",
+      "surface": 50,
+      "titre": "Appartement F2 Bejaia",
+      "type": "appartement",
+      "ville": "Bejaia"
+    },
+    {
+      "description": "Studio économique parfait pour petit budget.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Eau chaude"
+      ],
+      "id": 11,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 9000,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Cite SN",
+      "surface": 18,
+      "titre": "Studio économique Mostaganem",
+      "type": "studio",
+      "ville": "Mostaganem"
+    },
+    {
+      "description": "Colocation de 4 chambres. Ambiance familiale.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Cuisine équipée",
+        "Salon"
+      ],
+      "id": 12,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 7500,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Université Mouloud Mammeri",
+      "surface": 17,
+      "titre": "Colocation mixte Tizi Ouzou",
+      "type": "colocation",
+      "ville": "Tizi Ouzou"
+    },
+    {
+      "description": "Studio haut standing avec vue mer. Calme assuré.",
+      "disponible": true,
+      "equipements": [
+        "Climatisation",
+        "Meublé design",
+        "WiFi",
+        "Parking"
+      ],
+      "id": 13,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 18000,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Bologhine",
+      "surface": 28,
+      "titre": "Studio standing Alger",
+      "type": "studio",
+      "ville": "Alger"
+    },
+    {
+      "description": "F3 à partager entre étudiants. Espace commun spacieux.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "2 salles de bain",
+        "Cuisine équipée"
+      ],
+      "id": 14,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 22000,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Bir El Djir",
+      "surface": 65,
+      "titre": "Appartement F3 partage Oran",
+      "type": "appartement",
+      "ville": "Oran"
+    },
+    {
+      "description": "Studio RDC pratique. Accès indépendant.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Eau chaude",
+        "Chauffage"
+      ],
+      "id": 15,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 11500,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Ziadia",
+      "surface": 23,
+      "titre": "Studio rez-de-chaussée Constantine",
+      "type": "studio",
+      "ville": "Constantine"
+    },
+    {
+      "description": "Colocation dans quartier résidentiel calme.",
+      "disponible": false,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Jardin",
+        "Cuisine équipée"
+      ],
+      "id": 16,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 6800,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Cité Emir Abdelkader",
+      "surface": 19,
+      "titre": "Colocation calme Sidi Bel Abbès",
+      "type": "colocation",
+      "ville": "Sidi Bel Abbès"
+    },
+    {
+      "description": "Studio entièrement équipé. Proche université.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Climatisation",
+        "WiFi",
+        "Cuisine équipée"
+      ],
+      "id": 17,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 10500,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Zouaghi",
+      "surface": 21,
+      "titre": "Studio meublé Skikda",
+      "type": "studio",
+      "ville": "Skikda"
+    },
+    {
+      "description": "F1 spacieux pour étudiant. Prix attractif.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage",
+        "Eau chaude"
+      ],
+      "id": 18,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 9500,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Cité 500 logements",
+      "surface": 32,
+      "titre": "Appartement F1 Djelfa",
+      "type": "appartement",
+      "ville": "Djelfa"
+    },
+    {
+      "description": "Colocation avec étudiants internationaux. Pratique pour langues.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Climatisation",
+        "Salle de sport"
+      ],
+      "id": 19,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 12000,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "El Biar",
+      "surface": 20,
+      "titre": "Colocation internationale Alger",
+      "type": "colocation",
+      "ville": "Alger"
+    },
+    {
+      "description": "Studio adapté au climat. Bien isolé.",
+      "disponible": true,
+      "equipements": [
+        "Climatisation",
+        "Meublé",
+        "Eau chaude"
+      ],
+      "id": 20,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 8500,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Université",
+      "surface": 19,
+      "titre": "Studio étudiant Ghardaia",
+      "type": "studio",
+      "ville": "Ghardaia"
+    },
+    {
+      "description": "F2 proche campus. Idéal pour coloc ou famille étudiante.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage",
+        "2 chambres",
+        "Cuisine"
+      ],
+      "id": 21,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 11000,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Cité universitaire",
+      "surface": 48,
+      "titre": "Appartement F2 Laghouat",
+      "type": "appartement",
+      "ville": "Laghouat"
+    },
+    {
+      "description": "Studio avec vue mer. Calme et reposant.",
+      "disponible": false,
+      "equipements": [
+        "Meublé",
+        "Climatisation",
+        "WiFi",
+        "Balcon"
+      ],
+      "id": 22,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 12500,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Mer",
+      "surface": 26,
+      "titre": "Studio moderne Tipaza",
+      "type": "studio",
+      "ville": "Tipaza"
+    },
+    {
+      "description": "Colocation avec potager. Ambiance écoresponsable.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Jardin",
+        "Potager",
+        "Vélo"
+      ],
+      "id": 23,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 9000,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Cité 1000 logements",
+      "surface": 22,
+      "titre": "Colocation écolo Boumerdes",
+      "type": "colocation",
+      "ville": "Boumerdes"
+    },
+    {
+      "description": "Studio dans quartier historique. Charmant et authentique.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Eau chaude",
+        "WiFi"
+      ],
+      "id": 24,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 9500,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Mansourah",
+      "surface": 19,
+      "titre": "Studio médina Tlemcen",
+      "type": "studio",
+      "ville": "Tlemcen"
+    },
+    {
+      "description": "F1 économique. Parfait pour étudiant sérieux.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage"
+      ],
+      "id": 25,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 8800,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Centre",
+      "surface": 28,
+      "titre": "Appartement F1 M'sila",
+      "type": "appartement",
+      "ville": "M'sila"
+    },
+    {
+      "description": "Colocation pour étudiants artistes. Atelier partagé.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Atelier",
+        "Espace créatif"
+      ],
+      "id": 26,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 11000,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Sidi El Houari",
+      "surface": 24,
+      "titre": "Colocation artistique Oran",
+      "type": "colocation",
+      "ville": "Oran"
+    },
+    {
+      "description": "Studio proche complexe sportif universitaire.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "WiFi",
+        "Eau chaude",
+        "Accès sport"
+      ],
+      "id": 27,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 10800,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Cité Cirta",
+      "surface": 22,
+      "titre": "Studio sportif Constantine",
+      "type": "studio",
+      "ville": "Constantine"
+    },
+    {
+      "description": "F2 spacieux avec terrasse. Vue sur montagne.",
+      "disponible": false,
+      "equipements": [
+        "Meublé",
+        "Terrasse",
+        "Chauffage",
+        "2 chambres"
+      ],
+      "id": 28,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 10500,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Cité 200 logements",
+      "surface": 52,
+      "titre": "Appartement F2 Saida",
+      "type": "appartement",
+      "ville": "Saida"
+    },
+    {
+      "description": "Studio calme proche bibliothèque universitaire.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "WiFi",
+        "Bureau",
+        "Éclairage LED"
+      ],
+      "id": 29,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 11200,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Sidi Salem",
+      "surface": 20,
+      "titre": "Studio bibliothèque Annaba",
+      "type": "studio",
+      "ville": "Annaba"
+    },
+    {
+      "description": "Colocation pour musiciens. Studio d'enregistrement partagé.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Studio musique",
+        "Insonorisation"
+      ],
+      "id": 30,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 13000,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Kouba",
+      "surface": 21,
+      "titre": "Colocation musicale Alger",
+      "type": "colocation",
+      "ville": "Alger"
+    },
+    {
+      "description": "Studio avec terrasse jardin. Cadre verdoyant.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Terrasse",
+        "Jardin",
+        "Eau chaude"
+      ],
+      "id": 31,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 11800,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Tichy",
+      "surface": 25,
+      "titre": "Studio jardinier Bejaia",
+      "type": "studio",
+      "ville": "Bejaia"
+    },
+    {
+      "description": "F1 climatisé adapté au climat saharien.",
+      "disponible": true,
+      "equipements": [
+        "Climatisation",
+        "Meublé",
+        "Eau chaude"
+      ],
+      "id": 32,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 9200,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Cité universitaire",
+      "surface": 30,
+      "titre": "Appartement F1 Ouargla",
+      "type": "appartement",
+      "ville": "Ouargla"
+    },
+    {
+      "description": "Colocation pour étudiants scientifiques. Labo partagé.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Espace étude",
+        "Bibliothèque"
+      ],
+      "id": 33,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 7800,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Cité Maouche",
+      "surface": 18,
+      "titre": "Colocation scientifique Sétif",
+      "type": "colocation",
+      "ville": "Sétif"
+    },
+    {
+      "description": "Studio design meublé par architecte. Esthétique et fonctionnel.",
+      "disponible": false,
+      "equipements": [
+        "Meublé design",
+        "Climatisation",
+        "WiFi",
+        "Éclairage design"
+      ],
+      "id": 34,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 13500,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Oued El Alleug",
+      "surface": 27,
+      "titre": "Studio design Blida",
+      "type": "studio",
+      "ville": "Blida"
+    },
+    {
+      "description": "F2 spacieux adapté au grand sud. Bien isolé.",
+      "disponible": true,
+      "equipements": [
+        "Climatisation",
+        "Meublé",
+        "2 chambres",
+        "Cuisine"
+      ],
+      "id": 35,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 9800,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Cité 400 logements",
+      "surface": 55,
+      "titre": "Appartement F2 Adrar",
+      "type": "appartement",
+      "ville": "Adrar"
+    },
+    {
+      "description": "Studio pratique pour étudiant voyageur. Proche gare.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "WiFi",
+        "Eau chaude",
+        "Proche transports"
+      ],
+      "id": 36,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 10200,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Gare SNTF",
+      "surface": 23,
+      "titre": "Studio gare Tlemcen",
+      "type": "studio",
+      "ville": "Tlemcen"
+    },
+    {
+      "description": "Colocation multilingue. Échanges culturels garantis.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Climatisation",
+        "Espace polyglotte"
+      ],
+      "id": 37,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 14000,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Miramar",
+      "surface": 26,
+      "titre": "Colocation linguistique Oran",
+      "type": "colocation",
+      "ville": "Oran"
+    },
+    {
+      "description": "Studio avec accès rooftop. Vue panoramique exceptionnelle.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Climatisation",
+        "WiFi",
+        "Rooftop",
+        "Panorama"
+      ],
+      "id": 38,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 19000,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Bab Ezzouar",
+      "surface": 29,
+      "titre": "Studio rooftop Alger",
+      "type": "studio",
+      "ville": "Alger"
+    },
+    {
+      "description": "F1 économique dans ville universitaire en développement.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage",
+        "Eau chaude"
+      ],
+      "id": 39,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 8900,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Cité 120 logements",
+      "surface": 31,
+      "titre": "Appartement F1 Médéa",
+      "type": "appartement",
+      "ville": "Médéa"
+    },
+    {
+      "description": "Colocation pour entrepreneurs étudiants. Espace coworking.",
+      "disponible": false,
+      "equipements": [
+        "WiFi fibre",
+        "Meublé",
+        "Espace coworking",
+        "Imprimante"
+      ],
+      "id": 40,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 12500,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Cité universitaire",
+      "surface": 30,
+      "titre": "Colocation startup Constantine",
+      "type": "colocation",
+      "ville": "Constantine"
+    },
+    {
+      "description": "Studio à 100m de la plage. Cadre idyllique pour études.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Vue mer",
+        "Climatisation",
+        "WiFi"
+      ],
+      "id": 41,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 12800,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Plage",
+      "surface": 24,
+      "titre": "Studio plage Jijel",
+      "type": "studio",
+      "ville": "Jijel"
+    },
+    {
+      "description": "F2 dans ville universitaire des Aurès. Cadre montagnard.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage",
+        "2 chambres",
+        "Cuisine"
+      ],
+      "id": 42,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 10200,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Cité Aïn Mimoun",
+      "surface": 49,
+      "titre": "Appartement F2 Khenchela",
+      "type": "appartement",
+      "ville": "Khenchela"
+    },
+    {
+      "description": "Colocation pour étudiants en art dramatique. Proche théâtre.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Espace répétition",
+        "Décor théâtre"
+      ],
+      "id": 43,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 14500,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Belouizdad",
+      "surface": 28,
+      "titre": "Colocation théâtrale Alger",
+      "type": "colocation",
+      "ville": "Alger"
+    },
+    {
+      "description": "Studio particulièrement calme. Idéal pour études intensives.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Double vitrage",
+        "Espace étude",
+        "Calme"
+      ],
+      "id": 44,
+      "photos": [
+        "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+      ],
+      "prix": 9800,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Azazga",
+      "surface": 21,
+      "titre": "Studio silencieux Tizi Ouzou",
+      "type": "studio",
+      "ville": "Tizi Ouzou"
+    },
+    {
+      "description": "F1 adapté au climat saharien. Architecture locale.",
+      "disponible": false,
+      "equipements": [
+        "Climatisation",
+        "Meublé",
+        "Architecture saharienne"
+      ],
+      "id": 45,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 8700,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Cité universitaire",
+      "surface": 29,
+      "titre": "Appartement F1 El Oued",
+      "type": "appartement",
+      "ville": "El Oued"
+    },
+    {
+      "description": "Colocation équipée pour gamers. Fibre optique garantie.",
+      "disponible": true,
+      "equipements": [
+        "Fibre optique",
+        "Meublé",
+        "Espace gaming",
+        "Climatisation"
+      ],
+      "id": 46,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 16000,
+      "proprietaire": "ali_immo_oran@gmail.com",
+      "quartier": "Es Senia",
+      "surface": 32,
+      "titre": "Colocation gaming Oran",
+      "type": "colocation",
+      "ville": "Oran"
+    },
+    {
+      "description": "Studio avec bibliothèque intégrée. Pour amoureux des livres.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Bibliothèque",
+        "WiFi",
+        "Eclairage lecture"
+      ],
+      "id": 47,
+      "photos": [
+        "https://rectoetverso.cdiscount.com/wp-content/uploads/2021/07/AdobeStock_86572781.png?w=1024"
+      ],
+      "prix": 11800,
+      "proprietaire": "mohamed_logements@yahoo.com",
+      "quartier": "Pont Sidi Rached",
+      "surface": 26,
+      "titre": "Studio bibliophile Constantine",
+      "type": "studio",
+      "ville": "Constantine"
+    },
+    {
+      "description": "F2 dans ville universitaire de l'ouest. Prix très attractif.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Chauffage",
+        "2 chambres",
+        "Cuisine équipée"
+      ],
+      "id": 48,
+      "photos": [
+        "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+      ],
+      "prix": 9400,
+      "proprietaire": "sarah_immo@outlook.com",
+      "quartier": "Cité 300 logements",
+      "surface": 53,
+      "titre": "Appartement F2 Naama",
+      "type": "appartement",
+      "ville": "Naama"
+    },
+    {
+      "description": "Second studio rooftop avec piscine partagée. Standing premium.",
+      "disponible": true,
+      "equipements": [
+        "Meublé",
+        "Climatisation",
+        "WiFi",
+        "Rooftop",
+        "Piscine"
+      ],
+      "id": 49,
+      "photos": [
+        "https://example.com/photos/studio_rooftop2_1.jpg"
+      ],
+      "prix": 19500,
+      "proprietaire": "karim_proprio@gmail.com",
+      "quartier": "Les Sources",
+      "surface": 30,
+      "titre": "Studio rooftop 2 Alger",
+      "type": "studio",
+      "ville": "Alger"
+    },
+    {
+      "description": "Dernière colocation de notre catalogue. Ambiance familiale.",
+      "disponible": true,
+      "equipements": [
+        "WiFi",
+        "Meublé",
+        "Climatisation",
+        "Machine à laver",
+        "Jardin"
+      ],
+      "id": 50,
+      "photos": [
+        "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+      ],
+      "prix": 13200,
+      "proprietaire": "lina_coloc@gmail.com",
+      "quartier": "Berenice",
+      "surface": 27,
+      "titre": "Colocation finale Annaba",
+      "type": "colocation",
+      "ville": "Annaba"
+    }
+  ],
+  "users": {
+    "Nafaa2@gmail_com": {
+      "email": "Nafaa2@gmail.com",
+      "favorites": [
+        {
+          "description": "Studio meublé idéal pour étudiant, à 5 min de l'USTO. Calme et lumineux.",
+          "disponible": true,
+          "equipements": [
+            "WiFi",
+            "Meublé",
+            "Climatisation",
+            "Cuisine équipée"
+          ],
+          "id": 1,
+          "photos": [
+            "https://www.stephanemillet.fr/public/img/big/Cam2jpg_620fc4006a745.jpg"
+          ],
+          "prix": 12000,
+          "proprietaire": "karim_proprio@gmail.com",
+          "quartier": "Plateau",
+          "surface": 25,
+          "titre": "Studio étudiant proche Université d'Oran",
+          "type": "studio",
+          "ville": "Oran"
+        },
+        {
+          "description": "F2 entièrement meublé à 5min de la faculté. Très bon état.",
+          "disponible": true,
+          "equipements": [
+            "WiFi",
+            "Meublé",
+            "Chauffage",
+            "Climatisation"
+          ],
+          "id": 3,
+          "photos": [
+            "https://www.mon-logement-etudiant.fr/wp-content/uploads/2020/09/logement-etudiant-amenagement-petit-espace-2.jpg"
+          ],
+          "prix": 15000,
+          "proprietaire": "mohamed_logements@yahoo.com",
+          "quartier": "Cité Universitaire",
+          "surface": 45,
+          "titre": "Appartement F2 étudiant",
+          "type": "appartement",
+          "ville": "Constantine"
+        },
+        {
+          "description": "Studio fonctionnel parfait pour étudiant. Proche campus.",
+          "disponible": false,
+          "equipements": [
+            "Meublé",
+            "Eau chaude",
+            "WiFi"
+          ],
+          "id": 4,
+          "photos": [
+            "https://www.cocondedecoration.com/blog/wp-content/uploads/2021/02/conseil-bien-etre-confort-logement-etudiant.jpg"
+          ],
+          "prix": 11000,
+          "proprietaire": "sarah_immo@outlook.com",
+          "quartier": "Université Ferhat Abbas",
+          "surface": 20,
+          "titre": "Studio meublé centre Sétif",
+          "type": "studio",
+          "ville": "Sétif"
+        }
+      ],
+      "password": "qwertz",
+      "phone": "0123456789",
+      "username": "Nafaa2"
+    },
+    "Nafaa@gmail_com": {
+      "email": "Nafaa@gmail.com",
+      "password": "1234",
+      "phone": "0123456789",
+      "username": "Nafaa"
+    },
+    "ali_immo_oran@gmail_com": {
+      "email": "ali_immo_oran@gmail.com",
+      "password": "ali2024",
+      "phone": "077445566",
+      "username": "Ali Immobilier"
+    },
+    "imedbnk23@gmail_com": {
+      "email": "imedbnk23@gmail.com",
+      "password": "imed123",
+      "phone": "0123456789",
+      "username": "imed bnk"
+    },
+    "karim_proprio@gmail_com": {
+      "email": "karim_proprio@gmail.com",
+      "password": "karim123",
+      "phone": "055123456",
+      "username": "Karim Propriétaire"
+    },
+    "lina_coloc@gmail_com": {
+      "email": "lina_coloc@gmail.com",
+      "password": "lona000",
+      "phone": "054112233",
+      "username": "Lina Colocations"
+    },
+    "mohamed_logements@yahoo_com": {
+      "email": "mohamed_logements@yahoo.com",
+      "password": "mohamed789",
+      "phone": "066543219",
+      "username": "Mohamed Étudiants"
+    },
+    "sarah_immo@outlook_com": {
+      "email": "sarah_immo@outlook.com",
+      "password": "sarah456",
+      "phone": "077987654",
+      "username": "Sarah Agence"
+    }
+  }
+}
