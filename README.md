@@ -6,9 +6,7 @@ Expo React Native app.
 npm install  
 npx expo start
 
-
-### Import the database
-
+## Import the database
 1. Go to **Firebase Console**
 2. Select your project
 3. Open **Realtime Database**
